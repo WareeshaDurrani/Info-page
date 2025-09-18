@@ -1,0 +1,82 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(208, 233, 243);
+    height: 570px;
+    width: 1270px;
+}
+
+.flex-item {
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 220px;
+    margin-top: 50px;
+    width: 700px;
+    height: 470px;
+}
+
+.flex-img {
+    border-radius: 10px;
+    margin-left: -15px;
+    margin-top: 20px;
+    width: 300px;
+    height: 430px;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+    ;
+    margin-top: -400px;
+    margin-left: 300px;
+}
+
+p {
+    color: grey;
+    margin-left: 300px;
+}
+
+h5 {
+    color: black;
+    margin-left: 300px;
+}
+
+form {
+    border-color: grey;
+    border-radius: 15px;
+    margin-left: 300px;
+}
+
+h6 {
+    color: red;
+    margin-left: 500px;
+    margin-bottom: -15px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    width: 80px;
+    height: 30px;
+    border-radius: 8px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: black;
+    margin-bottom: 100px;
+
+}
+
+.cart
+{
+    color: black;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
+
